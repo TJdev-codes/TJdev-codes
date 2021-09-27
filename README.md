@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TJdev-codes
 - 👀 I’m interested in cooking, camping, and coding!
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 📫 How to reach me: @coder_TJ on Twitter :)
 
 <!---
